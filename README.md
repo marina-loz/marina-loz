@@ -16,6 +16,8 @@ Throughout my learning and work experience, I have developed the following key s
 - **Hypothesis Testing**
 - **Machine Learning**: Scikit-learn
 
+## Projects
+
 | №  | Project Name                                          | Project Description                                                                                                                                     | Skills & Tools                                                             |
 |----|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | 1  | Uncovering the World's Oldest Businesses                    | Exploring data from BusinessFinancing.co.uk on the world's oldest businesses.                                                                                                 | Python, Pandas                                                             |
