@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Marina, a data analyst.  
+❤️ Data Analyst with hands-on experience in working with large datasets and developing data-driven insights. I am able to learn independently and rapidly, with a keen interest in technology and a strong commitment to delivering accurate and meaningful analyses.
 
-<!--
-**marina-loz/marina-loz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Description
+This repository contains projects completed as part of my work as a data analyst. Each project focuses on solving real-world problems using relevant tools and methodologies.
 
-Here are some ideas to get you started:
+## Key Tools and Skills
+Throughout my learning and work experience, I have developed the following key skills and competencies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: Python, SQL
+- **Data Analysis**: Pandas, NumPy, SciPy, Statsmodels
+- **Data Visualization**: Matplotlib, Plotly, Seaborn
+- **Dashboarding**: Power BI, Tableau
+- **Unit Economics Metrics**
+- **A/B Testing**
+- **Hypothesis Testing**
+- **Machine Learning**: Scikit-learn
+
+## Contact
+- LinkedIn: [(https://www.linkedin.com/in/marina-lozanskaya/)]
