@@ -32,4 +32,5 @@ Throughout my learning and work experience, I have developed the following key s
 | 10 | PwC Switzerland Power BI Job Simulation                      | Investigating sales funnels and analyzing A/A/B test results in a mobile app.                                                                            | Power BI, Dashboarding, Product metrics, DAX, Defining KPIs    |
 | 11 | Impact Analysis of GoodThought NGO Initiatives                      | Analyzing key metrics from 2010 to 2023, track donations, and assess program effectiveness.                                                                            | SQL, PostgreSQL, window functions, CTEs    |
 | 12 | Will the customer purchase your product?                      | Analyzing the behavior of online customers.                                                                            | Python, Pandas, Numpy, Matplotlib, Scipy     |
+| 13 | Website Traffic Analysis                      | Analyzing website traffic data to understand user behavior                                                                            | Python, Pandas, Matplotlib     |
 
