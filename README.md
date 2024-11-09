@@ -33,4 +33,5 @@ Throughout my learning and work experience, I have developed the following key s
 | 11 | Impact Analysis of GoodThought NGO Initiatives                      | Analyzing key metrics from 2010 to 2023, track donations, and assess program effectiveness.                                                                            | SQL, PostgreSQL, window functions, CTEs    |
 | 12 | Will the customer purchase your product?                      | Analyzing the behavior of online customers.                                                                            | Python, Pandas, Numpy, Matplotlib, Scipy     |
 | 13 | Website Traffic Analysis                      | Analyzing website traffic data to understand user behavior                                                                            | Python, Pandas, Matplotlib     |
+| 14 | Credit Card Fraud Detection                   | Build and evaluate a machine learning model to detect fraudulent activity                                                                           | Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Logistic Regression     |
 
